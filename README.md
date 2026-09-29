@@ -16,7 +16,7 @@
 
 
 ## 🚀 Sobre mí 
-- 🎓 Ingeniero de Sistemas egresado de la UNIMET (2026), apasionado por la programación y por construir software bien hecho.
+- 🎓 Ingeniero de Sistemas egresado de la UNIMET (2026), apasionado por la programación y por construir software de calidad.
 - 💻 Tengo experiencia como analista de desarrollo, automatizando flujos de trabajo y creando software con una arquitectura sólida.
 - 🛠️ Diseño herramientas internas que automatizan procesos, dan seguimiento a KPIs y mejoran la comunicación entre áreas.
 - 🧭 Disfruto trabajar con la metodología **Scrum**: me gusta que los equipos avancen alineados y entreguen valor de forma constante.
